@@ -36,4 +36,4 @@ The idea for this project came from [Predicting Year of Marriage - End to End Ma
 
 ---
 
-<img src="https://github.com/mikecolbert/salary_prediction_front_end/blob/main/front_end_screenshot.jpg" width="300" />
+<img src="https://github.com/mikecolbert/salary_prediction_front_end/blob/main/front_end_screenshot.jpg" width="400" />
