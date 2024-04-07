@@ -70,8 +70,9 @@ def predict():
             if response.status_code == 200:
                 # Decode the JSON response
                 prediction = response.json()
-                print(prediction)  # Print the decoded JSON for debugging
 
+                print(prediction)  # Print the decoded JSON for debugging
+                
                 # Pass the decoded JSON response to the HTML page
                 return render_template("index.html", prediction=prediction)
 
